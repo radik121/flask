@@ -1,0 +1,6 @@
+Flask
+requests
+docker
+docker-compose
+psycopg2-binary
+SQLAlchemy
